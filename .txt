@@ -1,0 +1,6 @@
+Cambios a realizar:
+
+- Agregar un nuevo subsistema a la aplicación de biblioteca multimedia llamado Equalizer que permita configurar el modo
+de sonido (como Rock o Pop).
+- Integrar ese nuevo subsistema a la clase MediaPlayerFacade agregando un método público que lo utilice, 
+y llamarlo desde el cliente.
